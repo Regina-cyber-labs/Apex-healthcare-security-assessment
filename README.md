@@ -483,7 +483,7 @@ The final **Security Assessment Report** submitted to TS Academy serves as the p
 
 The report contains the project's executive summary, vulnerability findings, risk assessment, recommended security controls, recommended GRC policies, conclusion, and project team information.
 
-📄 **[View the Full Security Assessment Report](Apex-Healthcare-Solutions-Security-Assessment.pdf)**
+[View the Full Security Assessment Report](Apex-Healthcare-Solutions-Security-Assessment.pdf)
 
 The report was submitted as the official Group 35 capstone deliverable to TS Academy.
 
